@@ -42,3 +42,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+bin/get_token.dart
+lib/services/chat/chat_service.dart
